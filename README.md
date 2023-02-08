@@ -6,6 +6,7 @@ openai全部功能：[https://platform.openai.com/examples](https://platform.ope
 
 有趣的功能：[语法修改](https://platform.openai.com/playground/p/default-grammar?model=text-davinci-003)
 
+社区：https://community.openai.com/t/fine-tuning-chatgpt-model/27703
 
 技术论文：
 
