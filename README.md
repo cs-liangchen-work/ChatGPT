@@ -14,3 +14,5 @@ openai全部功能：[https://platform.openai.com/examples](https://platform.ope
 - [A Categorical Archive of ChatGPT Failures](https://arxiv.org/pdf/2302.03494.pdf)
 
 - [Is ChatGPT A Good Translator? A Preliminary Study](https://arxiv.org/pdf/2301.08745.pdf)
+
+- [A Multitask, Multilingual, Multimodal Evaluation of ChatGPT on Reasoning, Hallucination, and Interactivity](https://arxiv.org/pdf/2302.04023.pdf)
