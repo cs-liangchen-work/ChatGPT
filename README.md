@@ -24,3 +24,5 @@ openai全部功能：[https://platform.openai.com/examples](https://platform.ope
 - [Linguistic ambiguity analysis in ChatGPT](https://arxiv.org/pdf/2302.06426.pdf) 【语言歧义】
 
 - [ChatGPT versus Traditional Question Answering for Knowledge Graphs: Current Status and Future Directions Towards Knowledge Graph Chatbots](https://arxiv.org/pdf/2302.06466.pdf) 【知识图问答】
+
+- [Applying BERT and ChatGPT for Sentiment Analysis of Lyme Disease in Scientific Literature](https://arxiv.org/abs/2302.06474) 【情感分析】
