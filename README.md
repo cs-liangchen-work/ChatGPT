@@ -13,6 +13,8 @@ openai全部功能：[https://platform.openai.com/examples](https://platform.ope
 后续论文：
 - [A Categorical Archive of ChatGPT Failures](https://arxiv.org/pdf/2302.03494.pdf)
 
-- [Is ChatGPT A Good Translator? A Preliminary Study](https://arxiv.org/pdf/2301.08745.pdf)
+- [Is ChatGPT A Good Translator? A Preliminary Study](https://arxiv.org/pdf/2301.08745.pdf) 【翻译】
 
-- [A Multitask, Multilingual, Multimodal Evaluation of ChatGPT on Reasoning, Hallucination, and Interactivity](https://arxiv.org/pdf/2302.04023.pdf)
+- [A Multitask, Multilingual, Multimodal Evaluation of ChatGPT on Reasoning, Hallucination, and Interactivity](https://arxiv.org/pdf/2302.04023.pdf) 【推理，生成式】
+
+- [A Comprehensive Survey on Pretrained Foundation Models: A History from BERT to ChatGPT](https://arxiv.org/pdf/2302.09419.pdf) 【预训练模型发展】
