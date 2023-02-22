@@ -12,7 +12,9 @@ openai全部功能：[https://platform.openai.com/examples](https://platform.ope
 
 后续论文：
 
-- [Zero-Shot Information Extraction via Chatting with ChatGPT](https://arxiv.org/abs/2302.10205)
+- [ChatGPT: Jack of all trades, master of none](https://arxiv.org/pdf/2302.10724.pdf) 【很多任务】
+
+- [Zero-Shot Information Extraction via Chatting with ChatGPT](https://arxiv.org/abs/2302.10205) 【IE】
 
 - [Learning gain differences between ChatGPT and human tutor generated algebra hints](https://arxiv.org/abs/2302.06871)
 
