@@ -11,6 +11,10 @@ openai全部功能：[https://platform.openai.com/examples](https://platform.ope
 技术论文：
 
 后续论文：
+- [Exploring the Limits of ChatGPT for Query or Aspect-based Text Summarization](https://arxiv.org/abs/2302.08081) 【Text Summarization】
+
+- [Is ChatGPT better than Human Annotators? Potential and Limitations of ChatGPT in Explaining Implicit Hate Speech](https://arxiv.org/abs/2302.07736)【Explaining Implicit Hate Speech】
+
 - [Can ChatGPT Understand Too? A Comparative Study on ChatGPT and Fine-tuned BERT](https://arxiv.org/abs/2302.10198) 【很多任务】
 
 - [ChatGPT: Jack of all trades, master of none](https://arxiv.org/pdf/2302.10724.pdf) 【很多任务】
