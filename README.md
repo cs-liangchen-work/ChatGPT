@@ -12,6 +12,8 @@ openai全部功能：[https://platform.openai.com/examples](https://platform.ope
 
 后续论文：
 
+- [Zero-Shot Information Extraction via Chatting with ChatGPT](https://arxiv.org/abs/2302.10205)
+
 - [Learning gain differences between ChatGPT and human tutor generated algebra hints](https://arxiv.org/abs/2302.06871)
 
 - [Is ChatGPT a General-Purpose Natural Language Processing Task Solver?](https://arxiv.org/abs/2302.06476)【Sentiment Analysis，NER，Summarization，Dialogue，Question Answering，Natural Language Inference， Reasoning】
@@ -31,6 +33,7 @@ openai全部功能：[https://platform.openai.com/examples](https://platform.ope
 - [Is ChatGPT A Good Translator? A Preliminary Study](https://arxiv.org/pdf/2301.08745.pdf) 【翻译】
 
 - [A Multitask, Multilingual, Multimodal Evaluation of ChatGPT on Reasoning, Hallucination, and Interactivity](https://arxiv.org/pdf/2302.04023.pdf) 【推理，生成式】
+
 
 
 
