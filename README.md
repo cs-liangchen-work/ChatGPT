@@ -11,6 +11,7 @@ openai全部功能：[https://platform.openai.com/examples](https://platform.ope
 技术论文：
 
 后续论文：
+- [Can ChatGPT Understand Too? A Comparative Study on ChatGPT and Fine-tuned BERT](https://arxiv.org/abs/2302.10198)
 
 - [ChatGPT: Jack of all trades, master of none](https://arxiv.org/pdf/2302.10724.pdf) 【很多任务】
 
